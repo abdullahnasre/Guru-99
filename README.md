@@ -1,6 +1,6 @@
-# Nop Commerce
+# Guru 99
 
-![Nop Commerce Bank](https://demo.Nop Commerce.com/logo.png)
+![Guru 99 Bank](https://demo.guru99.com/logo.png)
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-This Nop Commerce project is to ensure that all the features and functionalities of demo banking software run smoothly providing a good banking experience to
+This Guru 99 project is to ensure that all the features and functionalities of demo banking software run smoothly providing a good banking experience to
 end users. Banking software performs various functions like transferring and depositing funds, balance inquiry, transaction history, withdrawal and 
 so on.
 
@@ -52,4 +52,4 @@ To set up the Guru-99 application locally, follow these steps:
 * Make your changes and submit a pull request.
 
 ## License
-* Nop Commerce is licensed under the MIT License.
+* Guru 99 is licensed under the MIT License.
